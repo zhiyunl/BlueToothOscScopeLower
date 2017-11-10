@@ -40,4 +40,4 @@ captures/
 *.jks
 
 # Generated files on Keil
-LOWER/OBJ/
+OBJ/
